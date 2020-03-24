@@ -1,4 +1,4 @@
-# example, ABCD
+# example, ABCD @ team
 
 Example Maven project generated using `maven-archetype-quickstart`
 
