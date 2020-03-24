@@ -1,4 +1,4 @@
-# example, 1234
+# example, ABCD
 
 Example Maven project generated using `maven-archetype-quickstart`
 
